@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Darkmono112
 - 👀 I’m interested in Game Development 
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on Any Open source Project 
 - 📫 How to reach me; Email darkess52@live.com
 
